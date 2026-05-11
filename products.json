@@ -1,0 +1,14 @@
+{
+  "Milk": {
+    "id": "Milk",
+    "name": "1L",
+    "price": 30.0,
+    "stock": 15
+  },
+  "Bread": {
+    "id": "Bread",
+    "name": "400g",
+    "price": 30.0,
+    "stock": 15
+  }
+}
